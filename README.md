@@ -2,9 +2,10 @@
 cchamangwana/cchamangwana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-👋 Hi, I’m @cchamangwana
-👀 I’m a Web and Mobile Developer from Malawi
-🔭 I’m currently working at a startup building an e-learning application for youths but i'm available for Freelance projects / Job opportunities
+# ✨ About Me
+- 👋 Hi, I’m @cchamangwana
+- 👀 I’m a Web and Mobile Developer from Malawi
+- 🔭 I’m currently working at a startup building an e-learning application for youths but i'm available for Freelance projects / Job opportunities
 
 
 ## 🌐 Socials:
