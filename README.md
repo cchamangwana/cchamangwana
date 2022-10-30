@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # ✨ About Me
 - 👋 Hi, I’m @cchamangwana
 - 👀 I’m a Web and Mobile Developer from Malawi
-- 🔭 I’m currently working at a startup building an e-learning application for youths but i'm available for Freelance projects / Job opportunities
+- 🔭 I'm available for Freelance projects / Job opportunities
 
 
 ## 🌐 Socials:
